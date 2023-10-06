@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTapNet2", "BTapNet2\BTapNet2.csproj", "{67100620-6B54-4ED2-BFAA-EA4ED9DC6843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67100620-6B54-4ED2-BFAA-EA4ED9DC6843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67100620-6B54-4ED2-BFAA-EA4ED9DC6843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67100620-6B54-4ED2-BFAA-EA4ED9DC6843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67100620-6B54-4ED2-BFAA-EA4ED9DC6843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5150A6-346E-470E-B15A-04742D9D3046}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.csproj.AssemblyReference.cache
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.AssemblyInfoInputs.cache
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.AssemblyInfo.cs
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.csproj.CoreCompileInputs.cache
+D:\BTapNet2\ViduNet2\ViduNet2\bin\Debug\net5.0\ViduNet2.exe
+D:\BTapNet2\ViduNet2\ViduNet2\bin\Debug\net5.0\ViduNet2.deps.json
+D:\BTapNet2\ViduNet2\ViduNet2\bin\Debug\net5.0\ViduNet2.runtimeconfig.json
+D:\BTapNet2\ViduNet2\ViduNet2\bin\Debug\net5.0\ViduNet2.runtimeconfig.dev.json
+D:\BTapNet2\ViduNet2\ViduNet2\bin\Debug\net5.0\ViduNet2.dll
+D:\BTapNet2\ViduNet2\ViduNet2\bin\Debug\net5.0\ViduNet2.pdb
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.dll
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\refint\ViduNet2.dll
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.pdb
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ViduNet2.genruntimeconfig.cache
+D:\BTapNet2\ViduNet2\ViduNet2\obj\Debug\net5.0\ref\ViduNet2.dll
