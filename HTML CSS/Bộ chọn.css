@@ -1,0 +1,20 @@
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: rgb(31, 34, 34);
+  4 changes: 2 additions & 2 deletions4  
+DEMO/index.html
+@@ -9,8 +9,8 @@
+</head>
+
+<body>
+  <h1>Lê Thị Thu Hà </h1>
+  <h5>2021050228</h5>
+  <h1 class="center">Trần Văn Hào </h1>
+  <h5 class="center">2121050046</h5>
+  <hr>
+  <form action="#" target="_blank">
+    <label for="name"> UseName</label> <br>

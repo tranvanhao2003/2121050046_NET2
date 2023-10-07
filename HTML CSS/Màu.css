@@ -1,0 +1,26 @@
+
+</script>
+
+<p>Code các phần tử mã máy tính:</p>
+<p style="border: 2px solid Tomato;">Code các phần tử mã máy tính:</p>
+<pre>
+<code>
+x = 5;
+@@ -35,7 +35,7 @@ <h5 class="center">2121050046</h5>
+</code>
+</pre>
+
+<p>Hình ảnh vườn hoa đẹp </p>
+<p  style="border: 2px solid violet;">Hình ảnh vườn hoa đẹp </p>
+
+<picture>
+  <source srcset="img_smallflower.jpg" media="(max-width: 600px)">
+@@ -69,7 +69,7 @@ <h1>Trang web </h1>
+&#128151;
+</p>
+
+<p>Form HTML</p>
+<p style="border: 2px solid Tomato;">Form HTML</p>
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
